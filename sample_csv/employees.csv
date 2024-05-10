@@ -1,0 +1,13 @@
+name.firstName,name.lastName,age,email,address.city,address.state,address.zipCode,phone,education.degree,education.major,experience.company,experience.position.current.designation,experience.position.current.duration,experience.position.previous.designation,experience.position.previous.duration
+John,Doe,50,john@example.com,New York,NY,10001,123-456-7890,Bachelor's,Computer Science,ABC Inc.,Software Engineer,3 years,Systems Engineer,2 years
+Alice,Smith,19,alice@example.com,San Francisco,CA,94105,987-654-3210,Master's,Electrical Engineering,XYZ Corp.,Data Scientist,2 years,Research Analyst,1 year
+,,,,,,,,,,,,,,
+Michael,Johnson,35,michael@example.com,Chicago,IL,60601,555-123-4567,PhD,Physics,ACME Ltd.,Research Scientist,5 years,Lab Technician,2 years
+Emily,Williams,17,emily@example.com,Boston,MA,2101,222-333-4444,Bachelor's,Mathematics,DEF Corp.,Analyst,,,
+Daniel,Brown,40,daniel@example.com,Los Angeles,CA,90001,999-888-7777,Master's,Economics,GHI Corp.,Financial Analyst,6 years,Consultant,3 years
+Sophia,Jones,32,sophia@example.com,Seattle,WA,98101,444-555-6666,Bachelor's,English,JKL Inc.,Writer,7 years,Editor,2 years
+William,Anderson,27,william@example.com,Austin,TX,78701,777-888-9999,PhD,Chemistry,MNO Corp.,Chemist,3 years,Lab Assistant,1 year
+Olivia,Martin,43,olivia@example.com,Denver,CO,80202,666-777-8888,Bachelor's,Biology,PQR Ltd.,Biologist,2 years,Research Assistant,1 year
+,,,,,,,,,,,,,,
+Matthew,Thompson,29,matthew@example.com,Portland,OR,97201,333-444-5555,Master's,Environmental Science,STU Corp.,Environmental Scientist,4 years,Field Technician,2 years
+Emma,Garcia,61,emma@example.com,Miami,FL,33101,111-222-3333,Bachelor's,Sociology,VWX Inc.,Social Worker,5 years,Counselor,3 years
